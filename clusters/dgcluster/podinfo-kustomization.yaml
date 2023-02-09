@@ -19,7 +19,6 @@ spec:
         metadata:
           name: podinfo
         spec:
-          minReplicas: 1
           maxReplicas: 2           
       target:
         name: podinfo
