@@ -1,6 +1,6 @@
 # collab-clusters
 
 TODO:
--> FluxCD
+-> FluxCD (Done)
 -> CI/CD
 -> Test APP
